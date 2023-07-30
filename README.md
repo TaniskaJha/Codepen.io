@@ -1,6 +1,6 @@
 # CodePen.io - A CodePen Clone
 
-![CodePen.io](https://your-website-url.com/path-to-your-logo.png)
+
 
 Welcome to CodePen.io, a React-based web application that serves as a CodePen clone, allowing developers to write and share HTML, CSS, and JavaScript code snippets in an interactive and collaborative environment.
 ## Demo
